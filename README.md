@@ -2,7 +2,6 @@ Hello 👍
 
 - I started with indie game dev
 - I'm learning graphics programming 
-- I can like anything thats a little bit weird
 - Code, music producer, game dev, I will have a website for those things, work in progress
 
 <!--
