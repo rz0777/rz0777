@@ -41,10 +41,10 @@
 
 <div align="center">
   <!-- Atualize os links abaixo quando quiser -->
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/otávio-rosa-zampolli-93b78626b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seu@email.com" target="_blank">
+  <a href="mailto:otaviorzampolli@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
