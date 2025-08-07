@@ -3,7 +3,6 @@
 <p align="center">
   🧑‍💻 Estudante de Engenharia de Software <br>
   🎮 Desenvolvedor indie de jogos & entusiasta de programação gráfica <br>
-  🎧 Produtor musical nas horas vagas <br>
   🌐 Em breve: portfólio pessoal com meus projetos
 </p>
 
