@@ -1,14 +1,14 @@
-<h1 align="center">Olá, eu sou o Otávio 👋</h1>
+<h1 align="center">Otávio Rosa Zampolli - rz0777</h1>
 
 <p align="center">
-  🧑‍💻 Estudante de Engenharia de Software <br>
-  🎮 Desenvolvedor indie de jogos & entusiasta de programação gráfica <br>
-  🌐 Em breve: portfólio pessoal com meus projetos
+  🧑‍💻 Software Engineering Student <br>
+  🎮 Indie Game Developer & Graphic Programming Enthusiast <br>
+  🌐 Coming soon: personal portfolio with my projects
 </p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -26,21 +26,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rz0777&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook"/>
 </div>
 
----
-<!--
-## 🔍 Em destaque
--->
-<!-- Substitua abaixo pelos seus projetos quando quiser -->
-<!--
-- 🎮 **[Nome do jogo ou projeto gráfico]** – breve descrição aqui.
-- 🛠️ **[Outro projeto]** – foco no aprendizado ou tecnologia aplicada.
--->
----
-
-## 📬 Onde me encontrar
+## 📬 Where to find me
 
 <div align="center">
-  <!-- Atualize os links abaixo quando quiser -->
+  <!-- Update the links below when you'd like -->
   <a href="https://linkedin.com/in/otávio-rosa-zampolli-93b78626b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -48,19 +37,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
-
-<!--
-**rz0777/rz0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
